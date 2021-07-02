@@ -1,4 +1,4 @@
--Augmented Reality
+- Augmented Reality
 
 Fun visual of both 2D and 3D representation on an object of choice
 
